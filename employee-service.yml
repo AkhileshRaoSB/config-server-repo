@@ -21,4 +21,4 @@ eureka:
         defaultZone:  http://localhost:8761/eureka/
 
 sample:
-  message: Hello, Employee-Service...!
+  message: Hello, Employee-Service...! Spring Cloud Bus Demo
